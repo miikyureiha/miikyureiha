@@ -1,6 +1,6 @@
-## Hi there 👋
-🌱 I’m currently learning how to integrate my previous work into Git
-👯 I’m looking to collaborate on Game Development
+## Nice to meet you, and hello 👋
+🌱 I’m currently learning how to integrate my previous work into Git <br>
+👯 I’m looking to collaborate on Game Development <br>
 🔭 I’m currently working on a Java Game without UI (yet), which I'll be working slowly throughout this year
 <!--
 **miikyureiha/miikyureiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
